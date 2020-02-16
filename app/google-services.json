@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354691189562",
+    "firebase_url": "https://cameratester.firebaseio.com",
+    "project_id": "cameratester",
+    "storage_bucket": "cameratester.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354691189562:android:33f7ecbf6b4dd303",
+        "android_client_info": {
+          "package_name": "com.example.cameratester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354691189562-jtamgul6arlnaakh6lvoo4ah2fnhse2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiqr5nKOk2z2oA6m_BsW29QKswVlP32rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354691189562-jtamgul6arlnaakh6lvoo4ah2fnhse2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
